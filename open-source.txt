@@ -1,0 +1,36 @@
+OPEN 1.1 - Intro to video for open source information
+OPEN 1.2 - What is open source?
+OPEN 1.3 - Why does open source matter?
+OPEN 1.4 - How does it affect me as a developer?
+OPEN 1.5 - Outro to video for open source information
+
+
+
+OPEN 1.1 - Intro to video for open source information
+Chris from Codify Academy here.
+In this video i'm going to review what open source information is, why it matters and how it affects you as a developer.
+
+You may of heard of it before but I want to be sure we are on the same page, Open source information is something that is available to you at no cost and you can use that info for any reason,  and lots of people like this model because sharing knowledge can help improve society.
+
+
+
+OPEN 1.2 - What is open source?
+Open source in software terms is code that is shared under a license known open source software or OSS for short. that means the code can be viewed and modified by the user for any reason.
+
+On the opposite side we have closed source software, which means you are not able to view or modify the code, and lots of people like this model because they can charge a hefty price for software.  Microsoft Office is one example.
+
+
+
+OPEN 1.3 - Why does open source matter?
+The reason we think Open Software is important is because we think of it like this. if someone discovers fire and then doesn't share that information, imagine how much struggling there would be in the world.
+
+As a species we loss a lot of progress when everyone's trying to recreate something that's already been done, when instead they could be working together to improve how the metaphorical fire is made or how it is maintained.
+
+
+
+OPEN 1.4 - How does it affect me as a developer?
+As a developer we highly recommend you hang on the Open source side, aka not the dark side, and as you learn to develop we will be introduced to lots of open source software in hopes that one day you'll also be able to give back and help the community grow.
+
+
+OPEN 1.5 - Outro to video for open source information
+That's it for now, I'll catch you in the next video.
